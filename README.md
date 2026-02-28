@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/zaid-mian&show_icons=true&locale=en" alt="https://github.com/zaid-mian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/zaid-mian&" alt="https://github.com/zaid-mian" /></p>
+
 
